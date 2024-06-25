@@ -1,0 +1,4 @@
+RENCANA KONTEN
+-  Tailwindcss
+-  Javascript
+-  React js
